@@ -1,0 +1,33 @@
+h1 {color: blueviolet; border-width: 100pt black;}
+
+.highlight {
+    color: rgb(128, 0, 126);
+    font-weight: bold;
+    background-color: lightgray;
+    
+}
+body{
+    margin-top: 50pt;
+    margin-bottom: 50pt;
+    padding:10pt
+
+}
+p {background-color:  aquamarine;}
+
+#ergonomic-couch {
+    background-color: rgb(199, 199, 233);
+    padding: 10pt
+}
+
+.card-color {
+    background-color: rgb(172, 132, 210); 
+    font-family: cursive;
+    font-size: medium;
+    padding: 10pt;
+ 
+    
+}
+h1 {
+    font-size: x-large;
+    font-family: cursive;
+}
